@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     project
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _closeConnection, symObjAddr: 0x0, symBinAddr: 0x100002CC4, symSize: 0x48 }
+  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _serverSocket, symBinAddr: 0x100008040, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0x69, size: 0x8, addend: 0x0, symName: _outputFile, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0x2AD, offset: 0x2AD, size: 0x8, addend: 0x0, symName: _closeConnection, symObjAddr: 0x0, symBinAddr: 0x100002CC4, symSize: 0x48 }
+  - { offsetInCU: 0x2C2, offset: 0x2C2, size: 0x8, addend: 0x0, symName: _readFilePartition, symObjAddr: 0x48, symBinAddr: 0x100002D0C, symSize: 0x284 }
+  - { offsetInCU: 0x37F, offset: 0x37F, size: 0x8, addend: 0x0, symName: _readFile, symObjAddr: 0x2CC, symBinAddr: 0x100002F90, symSize: 0x338 }
+  - { offsetInCU: 0x40D, offset: 0x40D, size: 0x8, addend: 0x0, symName: _removeFile, symObjAddr: 0x604, symBinAddr: 0x1000032C8, symSize: 0x2B8 }
+  - { offsetInCU: 0x485, offset: 0x485, size: 0x8, addend: 0x0, symName: _create, symObjAddr: 0x8BC, symBinAddr: 0x100003580, symSize: 0x2E0 }
+  - { offsetInCU: 0x54E, offset: 0x54E, size: 0x8, addend: 0x0, symName: _processClientRequest, symObjAddr: 0xB9C, symBinAddr: 0x100003860, symSize: 0x32C }
+  - { offsetInCU: 0x61C, offset: 0x61C, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xEC8, symBinAddr: 0x100003B8C, symSize: 0xF8 }
+...

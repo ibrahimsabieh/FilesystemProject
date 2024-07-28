@@ -1,0 +1,9 @@
+create file.txt 4
+hi
+by
+lie
+why
+try
+my
+sky
+fly
